@@ -66,7 +66,7 @@ npx hardhat compile
 ### Deploy and Verify on Sepolia Testnet
 
 ```bash
-npx hardhat ignition deploy ignition/modules/HelixStakedICP.js --network ethereum_sepolia --verify
+npx hardhat ignition deploy ignition/modules/HelixStakedICP.js --network arb_sepolia
 ```
 
 ---

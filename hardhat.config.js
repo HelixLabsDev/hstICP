@@ -19,7 +19,7 @@ module.exports = {
     },
   },
   networks: {
-    ethereum_sepolia: {
+    arb_sepolia: {
       url: API_URL,
       accounts: [PRIVATE_KEY],
     },
