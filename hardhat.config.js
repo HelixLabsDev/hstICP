@@ -19,7 +19,7 @@ module.exports = {
     },
   },
   networks: {
-    arb_sepolia: {
+    holesky: {
       url: API_URL,
       accounts: [PRIVATE_KEY],
     },
